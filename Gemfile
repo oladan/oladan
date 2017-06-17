@@ -46,3 +46,8 @@ group :development do
   gem 'spring'
 end
 
+gem 'simplecov'
+gem 'simplecov-json'
+gem 'simplecov-rcov'
+gem 'ci_reporter'
+gem 'rspec_junit_formatter'
